@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const app = express();
 const port = 3000;
 
-const BOT_TOKEN = '';
+const BOT_TOKEN = 'MTQwMDczNTIzOTc2ODM3NTM3Ng.GqoQWA.yK371qTMlA6v6ZRoqP2Fi1Ucv7JRewZOllKyug';
 const CHANNEL_ID = '1400722751823544381';
 
 const bot = new Client({
